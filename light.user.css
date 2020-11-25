@@ -1,7 +1,7 @@
 /* ==UserStyle==
 @name         light
 @namespace    WFtheme
-@version      1.2.4
+@version      1.2.5
 @homepageURL  https://github.com/hodanli/WFtheme
 @updateURL    https://raw.githubusercontent.com/hodanli/WFtheme/main/light.user.css
 @author       hodanli
@@ -11,7 +11,7 @@
     
 
 ==/UserStyle== */
-@-moz-document domain("keybr.com") {
+@-moz-document domain("workflowy.com") {
 :root{
     --tag-color:/*[[tag-color]]*/;
     
