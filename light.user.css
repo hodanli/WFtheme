@@ -1,3 +1,13 @@
+/* ==UserStyle==
+@name         light
+@namespace    WFtheme
+@version      1.0
+@homepageURL  https://github.com/hodanli/WFtheme
+@updateURL    https://raw.githubusercontent.com/hodanli/WFtheme/main/light.user.css
+@author       hodanli
+@preprocessor default
+==/UserStyle== */
+
 ._1ofsw1y .contentTag {
     color: rgb(69, 130, 170);
     background: rgba(69, 130, 170, .16);
