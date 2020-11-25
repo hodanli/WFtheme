@@ -1,6 +1,6 @@
 # WorkFlowy Theme
 
-Custom Themes for [WorkFlowy] (workflowy.com)
+Custom Themes for [WorkFlowy](workflowy.com)
 
 ## How to install
 
@@ -19,8 +19,3 @@ Custom Themes for [WorkFlowy] (workflowy.com)
 * You can customize the theme from the menu:
 
 ![Screenshot 6](https://github.com/ethomasv/RemNoteTheme/blob/master/Screenshots/CustomizationMenu.jpg)
-
----
-You can also install both Styles, one for each theme and toggle between them in the extension Menu by checking/unchecking the checkboxes: 
-
-![Screenshot 7](https://github.com/ethomasv/RemNoteTheme/blob/master/Screenshots/ThemeToggle.jpg)
