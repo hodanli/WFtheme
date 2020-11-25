@@ -1,25 +1,25 @@
 /* ==UserStyle==
 @name         light
 @namespace    WFtheme
-@version      1.2.3
+@version      1.2.4
 @homepageURL  https://github.com/hodanli/WFtheme
 @updateURL    https://raw.githubusercontent.com/hodanli/WFtheme/main/light.user.css
 @author       hodanli
 @preprocessor stylus
 
-@advanced    color    tag-color    "Tag Color"     #ffadab80
+@var    color    tag-color    "Tag Color"     blue
     
 
 ==/UserStyle== */
-
+@-moz-document domain("keybr.com") {
 :root{
-    --tag-color:;
+    --tag-color:/*[[tag-color]]*/;
     
 }
 
 ._1ofsw1y .contentTag {
     color: var(--tag-color);
-    background: rgba(69, 130, 170, .16);
+   
 }
 
 ._1ofsw1y .contentTagText {
@@ -34,4 +34,5 @@
     color: rgb(27, 166, 5);
     text-decoration: none;
     cursor: pointer;
+}
 }
