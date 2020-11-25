@@ -5,16 +5,20 @@
 @homepageURL  https://github.com/hodanli/WFtheme
 @updateURL    https://raw.githubusercontent.com/hodanli/WFtheme/main/light.user.css
 @author       hodanli
-@preprocessor default
+@preprocessor stylus
 
-@var    color    highlight-red-c    "Red Highlight"     #ffadab80
+@advanced    color    tag-color    "Tag Color"     #ffadab80
+    
 
 ==/UserStyle== */
 
-@-moz-document domain("workflowy.com") {
+:root{
+    --tag-color:;
+    
+}
 
 ._1ofsw1y .contentTag {
-    color: highlight-red-c!important;
+    color: var(--tag-color);
     background: rgba(69, 130, 170, .16);
 }
 
@@ -23,13 +27,11 @@
 }
 
 ._tmxjr5 {
-    color: rgb(198, 105, 18);
-
+    color:  rgb(161, 5, 166);
 }
 
 ._1ofsw1y .contentLink {
     color: rgb(27, 166, 5);
     text-decoration: none;
     cursor: pointer;
-}
 }
