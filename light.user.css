@@ -2,23 +2,20 @@
 @name         light
 @namespace    WFtheme
 @version      1.2.5
+@description  WorkFlowy style
 @homepageURL  https://github.com/hodanli/WFtheme
 @updateURL    https://raw.githubusercontent.com/hodanli/WFtheme/main/light.user.css
 @author       hodanli
-@preprocessor stylus
+@preprocessor default
 
-@var    color    tag-color    "Tag Color"     blue
+@var color tag_color "Tag Color" #2a9d8f
     
 
 ==/UserStyle== */
 @-moz-document domain("workflowy.com") {
-:root{
-    --tag-color:/*[[tag-color]]*/;
-    
-}
 
 ._1ofsw1y .contentTag {
-    color: var(--tag-color);
+    color: var(--tag_color);
    
 }
 
