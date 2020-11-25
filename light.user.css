@@ -6,12 +6,15 @@
 @updateURL    https://raw.githubusercontent.com/hodanli/WFtheme/main/light.user.css
 @author       hodanli
 @preprocessor default
+
+@var    color    highlight-red-c    "Red Highlight"     #ffadab80
+
 ==/UserStyle== */
 
 @-moz-document domain("workflowy.com") {
 
 ._1ofsw1y .contentTag {
-    color: rgb(69, 130, 170);
+    color: highlight-red-c!important;
     background: rgba(69, 130, 170, .16);
 }
 
