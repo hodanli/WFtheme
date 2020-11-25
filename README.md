@@ -1,4 +1,4 @@
-# RemNoteTheme
+# WorkFlowy Theme
 
 Custom Themes for [Workflowy] (workflowy.com)
 
