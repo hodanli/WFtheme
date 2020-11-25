@@ -1,7 +1,7 @@
 /* ==UserStyle==
 @name         light
 @namespace    WFtheme
-@version      1.2.6
+@version      1.3.6
 @description  WorkFlowy style
 @homepageURL  https://github.com/hodanli/WFtheme
 @updateURL    https://raw.githubusercontent.com/hodanli/WFtheme/main/light.user.css
@@ -9,6 +9,8 @@
 @preprocessor default
 
 @var color tag_color "Tag Color" #2a9d8f
+@var color link_color "Link Color" rgb(161, 5, 166)
+@var color note_color "Note Color" rgb(161, 5, 166)
     
 
 ==/UserStyle== */
@@ -24,11 +26,11 @@
 }
 
 ._tmxjr5 {
-    color:  rgb(161, 5, 166);
+    color:  var(--note_color);
 }
 
 ._1ofsw1y .contentLink {
-    color: rgb(27, 166, 5);
+    color: var(--link_color);
     text-decoration: none;
     cursor: pointer;
 }
