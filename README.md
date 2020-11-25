@@ -1,6 +1,6 @@
 # WorkFlowy Theme
 
-Custom Themes for [Workflowy] (workflowy.com)
+Custom Themes for [WorkFlowy] (workflowy.com)
 
 ## How to install
 
