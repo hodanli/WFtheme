@@ -8,7 +8,7 @@
 @preprocessor default
 ==/UserStyle== */
 
-@-moz-document domain("workflowy.com")
+@-moz-document domain("workflowy.com") {
 
 ._1ofsw1y .contentTag {
     color: rgb(69, 130, 170);
@@ -28,4 +28,5 @@
     color: rgb(27, 166, 5);
     text-decoration: none;
     cursor: pointer;
+}
 }
