@@ -8,9 +8,9 @@
 @author       hodanli
 @preprocessor default
 
-@var color tag_color "Tag Color" #2a9d8f
-@var color link_color "Link Color" rgb(161, 5, 166)
-@var color note_color "Note Color" rgb(161, 5, 166)
+@var color tag_color "Tag Color" #249183
+@var color link_color "Link Color" #2969b3
+@var color note_color "Note Color" #c18105
     
 
 ==/UserStyle== */
