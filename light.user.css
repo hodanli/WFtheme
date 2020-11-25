@@ -8,8 +8,6 @@
 @preprocessor default
 ==/UserStyle== */
 
-@-moz-document regexp("^https?://((education|gist|graphql|guides|docs|raw|resources|status|developer|support|vscode-auth)\\.)?github\\.com/((?!generated_pages/preview).)*$"), regexp("^https?://www\.zuora\.com.*github\.com.*"), domain("githubusercontent.com"), domain("www.githubstatus.com"), domain("stylishthemes.github.io")
-
 ._1ofsw1y .contentTag {
     color: rgb(69, 130, 170);
     background: rgba(69, 130, 170, .16);
