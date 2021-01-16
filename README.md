@@ -17,7 +17,7 @@ Custom Themes for [WorkFlowy](https://workflowy.com/)
 
 * Install [Stylus](https://add0n.com/stylus.html) Extension for either Firefox, Chrome or Opera
 * Cick *Install*
-* You must enable dark theme in settings to use dark colorisation.
+* You must enable dark theme in settings to use dark theme.
 
 [![Install directly with Stylus](https://img.shields.io/badge/Install%20directly%20with-Stylus-00adad.svg)](https://raw.githubusercontent.com/hodanli/WFtheme/main/light.user.css) Light WF Theme
 
