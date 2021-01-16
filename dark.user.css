@@ -1,0 +1,40 @@
+/* ==UserStyle==
+@name         dark
+@namespace    WFtheme
+@version      2.0.0
+@description  WorkFlowy style
+@homepageURL  https://github.com/hodanli/WFtheme
+@updateURL    
+@author       hodanli
+@preprocessor default
+
+@var color tag_color "Tag Color" #249183
+@var color tag_background "Tag Background" #b61db929
+@var color link_color "Link Color" #2969b3
+@var color link_background "Link Background" #0c76ac24
+@var color note_color "Note Color" #c18105
+    
+
+==/UserStyle== */
+@-moz-document domain("workflowy.com") {
+
+._87nin8 .contentTag {
+    color: var(--tag_color);
+    background:  var(--tag_background);
+}
+
+._87nin8 .contentTagText {
+    text-decoration: none;
+}
+
+._tmxjr5 {
+    color: var(--note_color);
+}    
+    
+._87nin8 .contentLink {
+    color: var(--link_color);
+    text-decoration: none;
+    background: var(--link_background);
+} 
+
+}
