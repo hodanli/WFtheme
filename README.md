@@ -2,20 +2,36 @@
 
 Custom Themes for [WorkFlowy](https://workflowy.com/)
 
+## Examples
+
+* Light Theme:
+
+![Screenshot 1](https://raw.githubusercontent.com/hodanli/WFtheme/main/screenshots/light.jpeg)
+
+* Dark Theme:
+
+![Screenshot 2](https://raw.githubusercontent.com/hodanli/WFtheme/main/screenshots/dark.jpeg)
+
+
 ## How to install
 
 * Install [Stylus](https://add0n.com/stylus.html) Extension for either Firefox, Chrome or Opera
 * Cick *Install*
+* You must enable dark theme in settings to use dark colorisation.
 
 [![Install directly with Stylus](https://img.shields.io/badge/Install%20directly%20with-Stylus-00adad.svg)](https://raw.githubusercontent.com/hodanli/WFtheme/main/light.user.css) Light WF Theme
+
+[![Install directly with Stylus](https://img.shields.io/badge/Install%20directly%20with-Stylus-00adad.svg)](https://raw.githubusercontent.com/hodanli/WFtheme/main/dark.user.css) Dark WF Theme
+
+
 
 ---
 ## How to Customize
 
 * Click the Configure Icon on the right:
 
-![Screenshot 5](https://github.com/ethomasv/RemNoteTheme/blob/master/Screenshots/ConfigureIcon.jpg)
+![Screenshot 3](https://raw.githubusercontent.com/hodanli/WFtheme/main/screenshots/menu.png)
 
 * You can customize the theme from the menu:
 
-![Screenshot 6](https://github.com/ethomasv/RemNoteTheme/blob/master/Screenshots/CustomizationMenu.jpg)
+![Screenshot 4](https://raw.githubusercontent.com/hodanli/WFtheme/main/screenshots/settings.png)
