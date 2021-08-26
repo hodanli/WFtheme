@@ -1,6 +1,6 @@
 # WorkFlowy Theme
 
-Simple custom themes for [WorkFlowy](https://workflowy.com/)
+Simple custom themes for [WorkFlowy](https://workflowy.com/) for you.
 
 Here is the [link](https://workflowy.com/s/Uq7TM6uyhQ) to test your themes. You can see most common usages of WF to test your theme here.
 
